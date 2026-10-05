@@ -1,171 +1,171 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com um relatório alarmante sobre a escassez de água potável e a perda de biodiversidade na sua região. Qual o primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "No início ficou com medo do impacto das mudanças climáticas na sua rotina.",
+                    "Achou assustador pensar na velocidade em que o meio ambiente está se degradando."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso é uma oportunidade de mudança!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Quis saber como adotar hábitos mais sustentáveis no seu dia a dia.",
+                    "Pensou que pequenas ações comunitárias podem restaurar o meio ambiente."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Enfrentar a crise ambiental pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de ciências da escola decidiu fazer uma sequência de aulas sobre sustentabilidade. No fim de uma aula ela pede que você escreva um trabalho sobre como a reciclagem pode transformar a comunidade. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Utiliza uma plataforma online de mapeamento de pontos de coleta e dados de reciclagem para encontrar informações detalhadas e explicadas de forma simples.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Conseguiu utilizar ferramentas digitais para buscar informações úteis sobre o meio ambiente.",
+                    "Percebeu que a tecnologia pode ajudar a encontrar dados ambientais de forma mais rápida e direcionada.",
+                    "Percebeu que gráficos e indicadores ambientais ajudaram muito suas pesquisas sobre assuntos complexos."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Escreve o trabalho com base em conversas com moradores locais, pesquisas em livros e conhecimentos próprios sobre o descarte de lixo.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Sentiu mais facilidade em utilizar observações locais e entrevistas para escrever seu trabalho.",
+                    "Achou que era muito mais prático entender a realidade da sua comunidade ouvindo as pessoas diretamente.",
+                    "Prefere atuar diretamente com a comunidade com pouca dependência de relatórios digitais."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Iniciativas ecológicas podem ser uma ótima alternativa para melhorar o dia a dia, e foi pensando nisso que uma professora de ciências da escola decidiu fazer uma sequência de aulas sobre sustentabilidade. No fim de uma aula ela pede que você escreva um trabalho sobre como a reciclagem pode transformar a comunidade. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Utiliza uma plataforma online de mapeamento de pontos de coleta e dados de reciclagem para encontrar informações detalhadas e explicadas de forma simples.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Conseguiu utilizar ferramentas digitais para buscar informações úteis sobre o meio ambiente.",
+                    "Percebeu que a tecnologia pode ajudar a encontrar dados ambientais de forma mais rápida e direcionada.",
+                    "Percebeu que gráficos e indicadores ambientais ajudaram muito suas pesquisas sobre assuntos complexos."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Escreve o trabalho com base em conversas com moradores locais, pesquisas em livros e conhecimentos próprios sobre o descarte de lixo.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Sentiu mais facilidade em utilizar observações locais e entrevistas para escrever seu trabalho.",
+                    "Achou que era muito mais prático entender a realidade da sua comunidade ouvindo as pessoas diretamente.",
+                    "Prefere atuar diretamente com a comunidade com pouca dependência de relatórios digitais."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Ferramentas de dados ecológicos podem facilitar muito nossa compreensão sobre o planeta. Agora imagine que você precisa participar de um debate sobre a transição para energias renováveis na sua cidade. Qual posicionamento tomar?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende a transição imediata para energia solar e eólica, destacando a criação de empregos verdes.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Vem impulsionando projetos ecológicos na sua região e luta por novas tecnologias limpas.",
+                    "Participa ativamente do desenvolvimento de soluções sustentáveis e na melhoria do uso de energia."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Demonstra preocupação com o custo da transição energética para as famílias mais carentes e defende subsídios públicos.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Sua preocupação social motivou a criar um grupo de debate sobre justiça ambiental na escola.",
+                    "Criou fóruns de discussão sobre o impacto socioeconômico da transição verde para garantir equidade."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Trazer experiências práticas traz um toque humano aos nossos projetos. Agora imagine que você precisa participar de um debate sobre a transição para energias renováveis na sua cidade. Qual posicionamento tomar?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende a transição imediata para energia solar e eólica, destacando a criação de empregos verdes.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Vem impulsionando projetos ecológicos na sua região e luta por novas tecnologias limpas.",
+                    "Participa ativamente do desenvolvimento de soluções sustentáveis e na melhoria do uso de energia."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Demonstra preocupação com o custo da transição energética para as famílias mais carentes e defende subsídios públicos.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Sua preocupação social motivou a criar um grupo de debate sobre justiça ambiental na escola.",
+                    "Criou fóruns de discussão sobre o impacto socioeconômico da transição verde para garantir equidade."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Novos desafios ambientais exigem reflexão. Após a elaboração do trabalho, a professora realizou um debate para entender as soluções propostas. Durante a conversa, surgiu uma questão central: como as escolhas de consumo de hoje impactam o clima do futuro. Nesse debate, como você se posiciona?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende que incentivos às empresas limpas e inovações tecnológicas resolverão a maior parte dos problemas.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Incentiva o consumo consciente e apoia startups voltadas à economia circular.",
+                    "Acredita no poder da inovação para transformar a relação entre economia e natureza."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Defende que a mudança real depende da redução drástica do consumo e da reeducação das pessoas.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Promove oficinas de reaproveitamento e compostagem na sua comunidade.",
+                    "Trabalha ativamente para conscientizar pessoas sobre a importância da simplicidade no consumo."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "É muito importante refletir sobre o futuro do nosso ecossistema. Por isso a professora realizou um debate para entender as soluções propostas. Durante a conversa, surgiu uma questão central: como as escolhas de consumo de hoje impactam o clima do futuro. Nesse debate, como você se posiciona?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende que incentivos às empresas limpas e inovações tecnológicas resolverão a maior parte dos problemas.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Incentiva o consumo consciente e apoia startups voltadas à economia circular.",
+                    "Acredita no poder da inovação para transformar a relação entre economia e natureza."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Defende que a mudança real depende da redução drástica do consumo e da reeducação das pessoas.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Promove oficinas de reaproveitamento e compostagem na sua comunidade.",
+                    "Trabalha ativamente para conscientizar pessoas sobre a importância da simplicidade no consumo."
                 ],
                 proxima: 7,
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Ao final da discussão, você precisou criar um cartaz ou campanha que representasse sua visão sobre o futuro do planeta. E agora?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Criar um cartaz físico utilizando materiais reciclados e colagens manuais.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
+                    "Percebeu que muitas pessoas gostam de aprender de forma prática e organizou uma oficina de arte com recicláveis.",
+                    "Acredita que o trabalho manual aproxima as pessoas das causas ambientais de forma afetiva."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Criar uma campanha digital utilizando redes sociais e artes ilustradas no computador.",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
+                    "Alcançou um número maior de jovens compartilhando infográficos e dados dinâmicos sobre preservação.",
+                    "Usou canais digitais para mobilizar estudantes a cobrarem ações ecológicas de gestores públicos.",
+                    "Percebeu que a comunicação visual online é uma ferramenta poderosa de conscientização em massa."
                 ],
             },
         ]
